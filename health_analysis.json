@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://www.larousse.fr/encyclopedie/data/images/1002121-Glande_thyro%C3%AFde.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://i.notretemps.com/1400x787/smart/2023/09/14/illustration-dune-injection-de-tirzepatide-nouveau-.jpeg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://www.conehealth.com/app/files/public/80e5525c-c5be-4c65-9e73-3595e74707ff/2YWB%20Managing%20High%20Blood%20Pressure%20for%20a%20Healthy%20Heart%20800w.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
